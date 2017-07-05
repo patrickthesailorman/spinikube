@@ -70,7 +70,7 @@ Once complete a brower will launch with the SpiniKube start page with handy link
 `setup.py` is only for initial setup. You can stop and start minikube from any directory with `minikube stop` and `minikube start`
 
  ## LICENSE
-Copyright 2015 Kenzan, LLC <http://kenzan.com>
+Copyright 2017 Kenzan, LLC <http://kenzan.com>
  
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
